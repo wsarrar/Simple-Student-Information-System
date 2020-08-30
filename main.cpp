@@ -1,5 +1,4 @@
-
-//CSE220 Project 7 Spring 2020
+// Academic Project 2020
 // Name: Wasfi Sarrar
 // Programming environment used: VS
 
